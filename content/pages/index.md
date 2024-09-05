@@ -368,7 +368,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://adilo.bigcommand.com/66f79bf8-7917-4570-a39a-e46191f7f95d.mp4'
       controls: false
       aspectRatio: '16:9'
       styles:
