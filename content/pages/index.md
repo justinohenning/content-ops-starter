@@ -35,7 +35,7 @@ sections:
             showIcon: true
             icon: youtube
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
