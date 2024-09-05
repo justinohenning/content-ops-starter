@@ -27,7 +27,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Link
+            label: YouTube
+            altText: YouTube
+            url: '/https://lunchbox.nifty.pm/M_aZJzj6IvsAbo/roadmap'
+            showIcon: true
+            icon: youtube
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
