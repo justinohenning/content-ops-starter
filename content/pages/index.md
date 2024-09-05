@@ -367,7 +367,7 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
-      title: Title of the video
+      title: Bay Photo
       url: 'https://adilo.bigcommand.com/66f79bf8-7917-4570-a39a-e46191f7f95d.mp4'
       controls: false
       aspectRatio: '16:9'
