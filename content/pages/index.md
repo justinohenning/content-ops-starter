@@ -191,7 +191,7 @@ sections:
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
-    motion: static
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
