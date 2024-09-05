@@ -49,6 +49,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+        tagline: sadf
       - type: FeaturedItem
         title: 20x
         subtitle: The Job Stuff
