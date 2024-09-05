@@ -32,7 +32,7 @@ sections:
             label: YouTube
             altText: YouTube
             url: '/https://lunchbox.nifty.pm/M_aZJzj6IvsAbo/roadmap'
-            showIcon: false
+            showIcon: true
             icon: youtube
             iconPosition: left
             style: secondary
